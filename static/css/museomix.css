@@ -1,13 +1,33 @@
-@font-face {font-family: GothamRnd-Bold; src: url(http://www.museomix.ch/fonts/GothamRnd-Bold.ttf); font-weight: normal; }
-@font-face {font-family: GothamRnd-Book; src: url(http://www.museomix.ch/fonts/GothamRnd-Book.ttf); font-weight: normal; }
-@font-face {font-family: GothamRnd-BookItal; src: url(http://www.museomix.ch/fonts/GothamRnd-BookItal.ttf); font-weight: normal; }
-@font-face {font-family: GothamRnd-Medium; src: url(http://www.museomix.ch/fonts/GothamRnd-Medium.ttf); font-weight: normal; }
+@font-face {
+  font-family: GothamRnd-Bold;
+  src: url("../fonts/GothamRnd-Bold.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: GothamRnd-Book;
+  src: url("../fonts/GothamRnd-Book.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: GothamRnd-BookItal;
+  src: url("../fonts/GothamRnd-BookItal.ttf");
+  font-weight: normal;
+}
+
+@font-face {
+  font-family: GothamRnd-Medium;
+  src: url("../fonts/GothamRnd-Medium.ttf");
+  font-weight: normal;
+}
 
 @font-face {
   font-family: Museomix;
   font-weight: normal;
   src: url("../fonts/museomix.ttf");
 }
+
 @font-face {
   font-family: GothamRnd-Medium;
   font-weight: normal;
@@ -18,5 +38,5 @@
   font-family: Lato;
   font-style: italic;
   font-weight: 400;
-  src: local("Lato Italic"), local("Lato-Italic"), url
+  src: local("Lato Italic"), local("Lato-Italic");
 }

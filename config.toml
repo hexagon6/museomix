@@ -1,4 +1,4 @@
-baseurl = "https://hexagon6.github.com/museomix"
+baseurl = "/museomix"
 languageCode = "de"
 title = "Die Logik einer anderen Zeit"
 [params]
