@@ -9,4 +9,4 @@ In einer abgedunkelten Erlebnisbox befindet sich eine vernebelte Vitrine.
 Nur wenn die BesucherIn sich Zeit nimmt, sich langsam bewegt oder gar still sitzt lichtet sich der Nebel und das Objekt wird sichtbar.
 Sobald sie sich wieder bewegt, verdeckt der Nebel die Sicht auf das Objekt.
 
-![Nebelvitrine](/museomix/img/6-NebelVitrine.png)
+![Nebelvitrine]({{ .Site.BaseURL }}/img/6-NebelVitrine.png)

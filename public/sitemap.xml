@@ -2,27 +2,27 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>/museomix/</loc>
+    <loc>/museomix/public/</loc>
     <lastmod>2016-11-12T17:46:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/museomix/post/logik/</loc>
+    <loc>/museomix/public/post/logik/</loc>
     <lastmod>2016-11-12T17:46:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/museomix/post/nebelvitrine/</loc>
+    <loc>/museomix/public/post/nebelvitrine/</loc>
     <lastmod>2016-11-12T17:46:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/museomix/post/totentanz/</loc>
+    <loc>/museomix/public/post/totentanz/</loc>
     <lastmod>2016-11-12T17:46:26+01:00</lastmod>
   </url>
   
   <url>
-    <loc>/museomix/post/prototyp/</loc>
+    <loc>/museomix/public/post/prototyp/</loc>
     <lastmod>2016-11-12T17:46:26+01:00</lastmod>
   </url>
   

@@ -9,23 +9,23 @@ class="post first"
 
 Die BesucherIn kommt ins Museum und wählt den Abenteuer-Eintritt. 
 
-![Lust auf Abenteuer](/museomix/img/0-LustAufAbenteuer.png)
+![Lust auf Abenteuer]({{ .Site.BaseURL }}/img/0-LustAufAbenteuer.png)
 
 Sie erhält einen Schlüsselbund, der ihr den Zugang zu besonderen Ausstellungs- und Erlebnisräumen ermöglicht. 
 
-![Abenteuer-Tix](/museomix/img/1-AbenteuerTix.png)
+![Abenteuer-Tix]({{ .Site.BaseURL }}/img/1-AbenteuerTix.png)
 
 Durch das “Portal” gelangt sie in die Ausstellung. 
 
-![Eintauchen](/museomix/img/2-Eintauchen.png)
+![Eintauchen]({{ .Site.BaseURL }}/img/2-Eintauchen.png)
 
 Jeder Schlüssel öffnet eine andere “Abenteuerbox”, die in dem Museum verteilt sind. 
 
-![Karte](/museomix/img/3-Karte.png)
+![Karte]({{ .Site.BaseURL }}/img/3-Karte.png)
 
-![Geschlossene Box](/museomix/img/4-GeschlosseneBox.png)
+![Geschlossene Box]({{ .Site.BaseURL }}/img/4-GeschlosseneBox.png)
 
-![Offene Box](/museomix/img/5-OffeneBox.png)
+![Offene Box]({{ .Site.BaseURL }}/img/5-OffeneBox.png)
 
 Isoliert vom Rest der Ausstellung, taucht die BesucherIn in den Abenteuerboxen über Ton, Klang,  Licht und Bild in eine andere Zeit ein.
 Es entsteht eine Atmosphäre, welche die dort ausgestellten Objekte erlebbar macht und die eigene Vorstellungskraft anregt.
