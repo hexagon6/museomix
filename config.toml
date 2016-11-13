@@ -4,7 +4,7 @@ title = "Die Logik einer anderen Zeit"
 [params]
   description = "museomix.ch 2016 - Gruppe 6"
   author = "Nikola Tesla"
-  logo = "/museomix/public/img/mmx-logo-2016.png"
+  logo = "img/mmx-logo-2016.png"
   github = "hexagon6"
   twitter = "museomix"
   cover = "img/DieLogikeineranderenZeit.png"
